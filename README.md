@@ -1,4 +1,4 @@
-# MarketAnalytics
+# Market Analytics
 
 The main objective of this project was to identify the most responsive customers before the marketing campaign for agreeing to take the term deposit so that the bank will be able to efficiently reach out probable convertible customers, saving time and marketing resources.
 
